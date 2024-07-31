@@ -7,3 +7,5 @@ This is a repository to gain familiarity with git and Github.
 * git commit -m
 * git status
 * git push
+* git checkout -b
+* git branch
